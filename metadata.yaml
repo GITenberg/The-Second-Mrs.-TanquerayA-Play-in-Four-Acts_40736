@@ -1,0 +1,38 @@
+_repo: The-Second-Mrs.-TanquerayA-Play-in-Four-Acts_40736
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinero, Arthur Wing
+    aliases:
+    - Pinero, A. W. (Arthur Wing)
+    - Pinero, Arthur W. (Arthur Wing)
+    - Pinero, Sir Arthur Wing
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '6013'
+    url: http://www.gutenberg.org/2009/agents/6013
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
+description: ''
+gutenberg_issued: '2012-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Remarried people -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Prostitutes -- England -- Public opinion -- Drama'
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'Prostitutes -- England -- Drama'
+- !lcsh 'Prostitutes -- Great Britain -- Social conditions -- 19th century -- Drama'
+- !lcsh 'Women -- Great Britain -- Social conditions -- 19th century -- Drama'
+- !lcc 'PR'
+- !lcsh 'Upper class -- England -- Drama'
+title: 'The Second Mrs. Tanqueray: A Play in Four Acts'
+url: http://www.gutenberg.org/ebooks/40736
